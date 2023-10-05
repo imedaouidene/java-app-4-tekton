@@ -32,7 +32,11 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 
 	</properties>
-
+	<scm>
+		<connection>scm:git:ssh://git@github.com:imedaouidene/java-app-4-tekton.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:imedaouidene/java-app-4-tekton.git</developerConnection>
+		<url>https://github.com/imedaouidene/java-app-4-tekton/tree/main</url>
+	</scm>
 
 	<dependencyManagement>
     <dependencies>
