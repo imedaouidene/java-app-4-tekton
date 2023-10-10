@@ -1,6 +1,6 @@
 FROM registry.access.redhat.com/redhat-openjdk-18/openjdk18-openshift
 
-ARG JAR_NAME "hello.war" 
+ARG JAR_NAME 
 
 COPY target/${JAR_NAME}  /home/jboss/
 
