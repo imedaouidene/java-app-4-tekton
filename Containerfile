@@ -4,4 +4,4 @@ ARG JAR_NAME
 
 COPY target/${JAR_NAME}  /home/jboss/
 
-CMD ['java', '-jar', '/home/jboss/${JAR_NAME}']
+CMD ["java", "-jar", "/home/jboss/${JAR_NAME}"]
