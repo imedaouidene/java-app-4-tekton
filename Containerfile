@@ -4,3 +4,5 @@ ARG JAR_NAME
 ENV JAR__NAME ${JAR__NAME}
 COPY target/${JAR_NAME}  /deployments/data
 
+CMD ["sleep","inifity"]
+
