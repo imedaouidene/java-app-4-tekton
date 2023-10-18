@@ -33,8 +33,8 @@
 
 	</properties>
 	<scm>
-		<connection>scm:git:ssh://git@github.com|imedaouidene/java-app-4-tekton.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com|imedaouidene/java-app-4-tekton.git</developerConnection>
+		<connection>scm:git:ssh://github.com/imedaouidene/java-app-4-tekton.git</connection>
+		<developerConnection>scm:git:ssh://github.com/imedaouidene/java-app-4-tekton.git</developerConnection>
 		<url>https://github.com/imedaouidene/java-app-4-tekton/tree/main</url>
 	</scm>
 
